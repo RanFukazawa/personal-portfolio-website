@@ -46,4 +46,4 @@ This project is released under the MIT License. See LICENSE.
 ![Projects screenshot](./images/projects-Screenshot.png)
 
 ## Demo video
-Watch a short walkthrough: 
+Watch a short walkthrough: ![Watch the video](./images/Demo.mp4)
