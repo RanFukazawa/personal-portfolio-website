@@ -48,7 +48,7 @@ Expects a clean, professional homepage.
 ## 3. User Stories
 - As a recruiter, I want to download Nakul’s resume directly from the homepage so I can quickly evaluate his background. 
 - As a classmate, I want to view his achievements in one glance so I can gauge his leadership and academic recognition.  
-- As a professor, I want to I want to check the site on different devices and see that it’s responsive and accessible.  
+- As a professor, I want to check the site on different devices and see that it’s responsive and accessible.  
 - As a visitor, I want a simple way to contact Nakul (email, LinkedIn, phone) without scrolling endlessly.
 
 ---
