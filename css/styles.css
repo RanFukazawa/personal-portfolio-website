@@ -1,3 +1,9 @@
+/* Very organized CSS format — great job!  
+Adding short captions or titles as separators could make it even easier 
+to see which styles apply to each section of the HTML.  
+You’ve already done this for some parts, so consider adding them to the 
+first half here as well (likely in index.html). */
+
 .home,
 .projects {
   color: #adb5bd;
