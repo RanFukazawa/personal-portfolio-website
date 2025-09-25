@@ -47,3 +47,5 @@ This project is released under the MIT License. See LICENSE.
 
 ## Demo video
 Watch a short walkthrough: ![Watch the video](./images/Demo.mp4)
+// The MP4 file couldn’t open (file too large). Consider adding 
+// the YouTube link you uploaded instead — it will be easier to view.
