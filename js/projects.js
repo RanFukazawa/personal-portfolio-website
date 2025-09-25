@@ -1,3 +1,8 @@
+// Your code is clear, clean, and easy to follow — great job!  
+// As your project grows, it might be helpful to add a brief one- or two-line description 
+// for each JS function to make future maintenance even easier.  
+// Example: "A JS function that flips a clicked card/image back and forth."
+
 document.querySelectorAll(".flip-card").forEach((card) => {
   card.addEventListener("click", () => card.classList.toggle("flipped"));
   card.addEventListener("keydown", (e) => {
